@@ -6,3 +6,4 @@ const myArray = [
 ];
 
 const myData = myArray[2][1];
+const myData = myArray[1][2];
